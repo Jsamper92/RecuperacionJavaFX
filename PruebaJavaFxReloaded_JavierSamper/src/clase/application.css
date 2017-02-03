@@ -1,0 +1,10 @@
+.mytitle{
+    -fx-font-family: "Shadows Into Light";
+}
+.fondo{
+	-fx-background-color:"136C9E";
+}
+
+.resaltarContacto{
+	-fx-background-color:"136C9E";
+}
